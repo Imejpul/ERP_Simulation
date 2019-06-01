@@ -1,0 +1,6 @@
+número_orden, departamento_solicitante,prod1,prod2,cantprod1,cantprod2
+001,produccion,clavos,madera,6 cajas,3 metros cubicos
+002,ventas,grapas,papel,2 cajas, 1 caja
+003,finanzas, calculadoras, papel, 2 uds, 4 cajas
+004,compras, papel,_,3 cajas,_
+005,finanzas,"Monitor TFT 21""",_,3,_

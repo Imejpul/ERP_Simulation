@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4536699-d858-49e1-b2bf-b8ab936e85b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2880">
+              <caret line="1489" column="74" selection-start-line="1489" selection-start-column="74" selection-end-line="1489" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#302#685#0" />
+                <element signature="e#750#1045#0" />
+                <element signature="e#1115#8357#0" />
+                <element signature="e#1206#2714#0" />
+                <element signature="e#2756#6280#0" />
+                <element signature="e#6322#7320#0" />
+                <element signature="e#7364#7540#0" />
+                <element signature="e#7598#8357#0" />
+                <element signature="e#8378#17171#0" />
+                <element signature="e#8414#10563#0" />
+                <element signature="e#10606#15111#0" />
+                <element signature="e#15154#16145#0" />
+                <element signature="e#16183#16362#0" />
+                <element signature="e#17196#26767#0" />
+                <element signature="e#17288#18166#0" />
+                <element signature="e#18204#19400#0" />
+                <element signature="e#19438#20333#0" />
+                <element signature="e#20370#21779#0" />
+                <element signature="e#21817#24272#0" />
+                <element signature="e#24310#25339#0" />
+                <element signature="e#25377#25566#0" />
+                <element signature="e#25618#26767#0" />
+                <element signature="e#26790#34256#0" />
+                <element signature="e#26924#27993#0" />
+                <element signature="e#28030#32104#0" />
+                <element signature="e#32141#32968#0" />
+                <element signature="e#33007#33192#0" />
+                <element signature="e#33234#33413#0" />
+                <element signature="e#33463#34256#0" />
+                <element signature="e#34338#40212#0" />
+                <element signature="e#34366#35192#0" />
+                <element signature="e#35226#36229#0" />
+                <element signature="e#36269#39265#0" />
+                <element signature="e#39299#39482#0" />
+                <element signature="e#39534#40212#0" />
+                <element signature="e#40237#41050#0" />
+                <element signature="e#40283#41050#0" />
+                <element signature="e#41070#42230#0" />
+                <element signature="e#44987#45470#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/set_up_inicial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="e#94#417#0" />
+                <element signature="e#448#458#0" />
+                <element signature="e#549#933#0" />
+                <element signature="e#971#1412#0" />
+                <element signature="e#1466#1777#0" />
+                <element signature="e#1828#2141#0" />
+                <element signature="e#2181#2476#0" />
+                <element signature="e#2605#3043#0" />
+                <element signature="e#3122#3811#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/datos_compras/ordenesCompra.csv" />
+        <option value="$PROJECT_DIR$/datos_ventas/facturas.csv" />
+        <option value="$PROJECT_DIR$/datos_produccion/objetivosAnyo.csv" />
+        <option value="$PROJECT_DIR$/datos_finanzas/balancesAnyo.csv" />
+        <option value="$PROJECT_DIR$/datos_usuarios/usuarios.csv" />
+        <option value="$PROJECT_DIR$/venv/conexionBD.py" />
+        <option value="$PROJECT_DIR$/venv/ghf.py" />
+        <option value="$PROJECT_DIR$/datos_usuarios/crearTablaUsuarios.py" />
+        <option value="$PROJECT_DIR$/datos_compras/crearTablaCompras.py" />
+        <option value="$PROJECT_DIR$/datos_compras/crearTablaCompra.py" />
+        <option value="$PROJECT_DIR$/datos_ventas/crearTablaVenta.py" />
+        <option value="$PROJECT_DIR$/datos_produccion/crearTablaObjetivo.py" />
+        <option value="$PROJECT_DIR$/datos_finanzas/crearTablaBalance.py" />
+        <option value="$PROJECT_DIR$/conexionBD.py" />
+        <option value="$PROJECT_DIR$/conexionBD_test.py" />
+        <option value="$PROJECT_DIR$/set_up_inicial.py" />
+        <option value="$PROJECT_DIR$/menus.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="126" />
+    <option name="width" value="1338" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practica3_IvanMejia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practica3_IvanMejia" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datos_finanzas" />
+      <recent name="$PROJECT_DIR$/datos_produccion" />
+      <recent name="$PROJECT_DIR$/datos_ventas" />
+      <recent name="$PROJECT_DIR$/datos_compras" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.menus">
+    <configuration name="conexionBD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_IvanMejia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_IvanMejia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="set_up_inicial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_IvanMejia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set_up_inicial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.menus" />
+        <item itemvalue="Python.set_up_inicial" />
+        <item itemvalue="Python.conexionBD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="24" width="1368" height="745" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15860015" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2864" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.496" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3296" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3296" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/python3.6/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="780" selection-start-line="780" selection-end-line="780" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu2018.3/system/python_stubs/-1176436930/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="235" column="4" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos_ventas/facturas.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/informe/capturas/login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos_produccion/objetivosAnyo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos_finanzas/balancesAnyo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ghf.py" />
+    <entry file="file://$PROJECT_DIR$/../Practica2_IvanMejia/venv/lib/python3.6/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="92" column="33" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos_compras/crearTablaCompra.py" />
+    <entry file="file://$PROJECT_DIR$/datos_finanzas/crearTablaBalance.py" />
+    <entry file="file://$PROJECT_DIR$/datos_ventas/crearTablaVenta.py" />
+    <entry file="file://$PROJECT_DIR$/datos_produccion/crearTablaObjetivo.py" />
+    <entry file="file://$PROJECT_DIR$/datos_usuarios/crearTablaUsuarios.py" />
+    <entry file="file://$PROJECT_DIR$/../Practica2_IvanMejia/venv/lib/python3.6/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Practica2_IvanMejia/venv/lib/python3.6/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Practica2_IvanMejia/venv/lib/python3.6/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="1069" selection-start-line="1069" selection-end-line="1069" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos_usuarios/usuarios.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos_compras/ordenesCompra.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/menus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="1489" column="74" selection-start-line="1489" selection-start-column="74" selection-end-line="1489" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#302#685#0" />
+            <element signature="e#750#1045#0" />
+            <element signature="e#1115#8357#0" />
+            <element signature="e#1206#2714#0" />
+            <element signature="e#2756#6280#0" />
+            <element signature="e#6322#7320#0" />
+            <element signature="e#7364#7540#0" />
+            <element signature="e#7598#8357#0" />
+            <element signature="e#8378#17171#0" />
+            <element signature="e#8414#10563#0" />
+            <element signature="e#10606#15111#0" />
+            <element signature="e#15154#16145#0" />
+            <element signature="e#16183#16362#0" />
+            <element signature="e#17196#26767#0" />
+            <element signature="e#17288#18166#0" />
+            <element signature="e#18204#19400#0" />
+            <element signature="e#19438#20333#0" />
+            <element signature="e#20370#21779#0" />
+            <element signature="e#21817#24272#0" />
+            <element signature="e#24310#25339#0" />
+            <element signature="e#25377#25566#0" />
+            <element signature="e#25618#26767#0" />
+            <element signature="e#26790#34256#0" />
+            <element signature="e#26924#27993#0" />
+            <element signature="e#28030#32104#0" />
+            <element signature="e#32141#32968#0" />
+            <element signature="e#33007#33192#0" />
+            <element signature="e#33234#33413#0" />
+            <element signature="e#33463#34256#0" />
+            <element signature="e#34338#40212#0" />
+            <element signature="e#34366#35192#0" />
+            <element signature="e#35226#36229#0" />
+            <element signature="e#36269#39265#0" />
+            <element signature="e#39299#39482#0" />
+            <element signature="e#39534#40212#0" />
+            <element signature="e#40237#41050#0" />
+            <element signature="e#40283#41050#0" />
+            <element signature="e#41070#42230#0" />
+            <element signature="e#44987#45470#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_up_inicial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#94#417#0" />
+            <element signature="e#448#458#0" />
+            <element signature="e#549#933#0" />
+            <element signature="e#971#1412#0" />
+            <element signature="e#1466#1777#0" />
+            <element signature="e#1828#2141#0" />
+            <element signature="e#2181#2476#0" />
+            <element signature="e#2605#3043#0" />
+            <element signature="e#3122#3811#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
